@@ -6,8 +6,4 @@
 ![[https://github.com/YeshuaContacto](https://github.com/YeshuaContacto)](./Gestor-CRUD-registros-SQL.jpg)
 
 ## Resumen del proyecto
-
-
-## Autor
-
-Este proyecto fue desarrollado por YeshuaContacto.
+Este código define una aplicación de interfaz gráfica que permite ver, editar, agregar y eliminar contactos en una base de datos SQLite a través de una interfaz de tabla y campos de entrada de texto. Los eventos de la interfaz, como la selección de filas y los clics en botones, están conectados a métodos que interactúan con el modelo de la base de datos para realizar las operaciones correspondientes.
